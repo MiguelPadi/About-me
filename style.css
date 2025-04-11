@@ -1,0 +1,11 @@
+.align-center{
+    align-content: center;
+}
+
+.img-responsive{
+    width: 100%;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
