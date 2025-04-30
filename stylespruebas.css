@@ -1,0 +1,77 @@
+.align-center{
+    align-content: center;
+}
+.img-responsive{
+    width: 100%;
+}
+body{
+    background-color: rgb(161, 161, 161);
+    color: rgb(36, 36, 12);
+}
+html {
+    scroll-behavior: smooth;
+  }
+  
+  .content-box {
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .content-box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .content-box h4 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .content-box p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  #about {
+    background-color: #e9f7f7;
+    border: 1px solid #b0e1e1;
+  }
+  
+  #contact {
+    background-color: #f8e1e1;
+    border: 1px solid #f1b0b0;
+  }
+  
+  #project {
+    background-color: #f1e2b9;
+    border: 1px solid #d3b087;
+  }
+  
+  .icon-box {
+    font-size: 15px;
+    color: white;
+    background-color: #4f5d75;
+    padding: 5px;
+    border-radius: 5%;
+    margin-bottom: 10px;
+  }
+  .content-box {
+    background-color: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    height: 100%;
+  }
+  
+  .icon-box {
+    font-size: 15px;
+    color: #0d6efd;
+    margin-bottom: 10px;
+  }
+  button{
+    color: chartreuse;
+  }
